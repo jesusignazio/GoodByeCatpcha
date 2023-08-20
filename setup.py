@@ -42,7 +42,7 @@ setup(
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Operating System :: Unix",
-        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.11",
         "Programming Language :: JavaScript",
         "Topic :: Scientific/Engineering",
         'Topic :: Scientific/Engineering :: Image Recognition',
