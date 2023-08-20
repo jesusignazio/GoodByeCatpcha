@@ -90,4 +90,4 @@ ADD app.py /goodbyecaptcha
 # Uncomment the lines below if you want to autostart the app and expose the
 # port on your machine, which can be accessed by going to http://localhost:5000
 EXPOSE 5000
-CMD ["python3.6", "/goodbyecaptcha/examples/app.py"]
+CMD ["python3.11", "/goodbyecaptcha/examples/app.py"]
